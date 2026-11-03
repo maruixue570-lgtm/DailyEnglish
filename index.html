@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f4f0e7">
+  <title>Daily English</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <a class="brand" href="#">DAILY ENGLISH</a>
+    <button id="archiveButton" class="text-button" type="button">Archive <span id="lessonCount"></span></button>
+  </header>
+  <main>
+    <aside class="date-rail" aria-label="课程日期"><div id="dateList"></div></aside>
+    <article id="lesson" aria-live="polite"><p class="loading">Loading today’s lesson…</p></article>
+  </main>
+  <template id="lessonTemplate">
+    <section class="hero">
+      <p class="eyebrow"></p><h1></h1><p class="subtitle"></p>
+      <div class="controls" role="group" aria-label="阅读语言">
+        <button data-mode="en" class="active">English</button><button data-mode="zh">中文</button><button data-mode="both">中英对照</button>
+      </div>
+    </section>
+    <section class="reading"><div class="article-en prose"></div><div class="article-zh prose" lang="zh-CN"></div></section>
+    <section class="expressions"><p class="section-label">Key expressions</p><div class="expression-list"></div></section>
+    <section class="practice"><p class="section-label">Speaking review</p><div class="status-row"></div><div class="feedback"></div><div class="corrections"></div></section>
+  </template>
+  <script src="app.js"></script>
+</body>
+</html>
