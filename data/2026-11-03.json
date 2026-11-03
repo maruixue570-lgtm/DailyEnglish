@@ -1,15 +1,79 @@
 {
-  "day":2,"date":"2026-11-03","topic":"Talking About Your Work","subtitle":"聊聊你的工作",
-  "reading":{"en":"I work as a product designer at a tech company. My job mainly involves designing digital products and figuring out how to make them easier to use.\n\nWhat I enjoy most about my job is that I get to solve different problems every day. Sometimes I work on improving an existing feature, and other times I get to explore completely new ideas.\n\nTo be honest, it can be pretty challenging, especially when I'm working on a tight deadline. There are days when I feel like I have a million things to do. But I guess that's part of the job.\n\nOne thing I've been trying to get better at is communicating my ideas more clearly. I've realized that being a good designer isn't just about making things look nice. It's also about understanding what people actually need.\n\nLooking ahead, I'd love to take on more responsibility and get involved in bigger decisions. I still have a lot to learn, but I'm enjoying the process.","zh":"我在一家科技公司担任产品设计师。我的工作主要涉及数字产品设计，以及思考如何让产品变得更容易使用。\n\n这份工作最让我喜欢的一点是，我每天都有机会解决不同的问题。有时候，我会改进现有功能；有时候，我也能探索一些全新的想法。\n\n说实话，这份工作有时挺有挑战性的，尤其是赶截止日期的时候。有些日子，我会觉得自己有一大堆事情要做。不过我想，这也是工作的一部分吧。\n\n最近我一直在努力提升的一项能力，就是更清晰地表达自己的想法。我逐渐意识到，成为一名优秀的设计师，并不只是把东西做得好看，还需要理解人们真正需要什么。\n\n展望未来，我希望能够承担更多责任，参与更重要的决策。我还有很多需要学习的东西，但我很享受这个过程。"},
-  "expressions":[
-    {"phrase":"My job mainly involves…","meaning":"我的工作主要涉及……","example":"My job mainly involves designing digital products.","alternative":"A big part of my job is…"},
-    {"phrase":"What I enjoy most about… is…","meaning":"……最让我喜欢的一点是……","example":"What I enjoy most about my job is solving problems.","alternative":"My favorite thing about… is…"},
-    {"phrase":"I get to…","meaning":"我有机会做……","example":"I get to explore new ideas.","alternative":"I have the opportunity to…"},
-    {"phrase":"To be honest,…","meaning":"说实话……","example":"To be honest, it can be pretty challenging.","alternative":"Honestly,…"},
-    {"phrase":"work on a tight deadline","meaning":"在紧迫的截止日期下工作","example":"We're working on a tight deadline this week.","alternative":"work under time pressure"},
-    {"phrase":"That's part of the job.","meaning":"这也是工作的一部分","example":"Some days are stressful, but that's part of the job.","alternative":"It comes with the job."},
-    {"phrase":"get better at…","meaning":"逐渐变得更擅长……","example":"I'm trying to get better at communicating my ideas.","alternative":"improve at…"},
-    {"phrase":"take on more responsibility","meaning":"承担更多责任","example":"I'd love to take on more responsibility.","alternative":"step into a bigger role"}
+  "day": 2,
+  "date": "2026-11-03",
+  "topic": "Talking About Your Work",
+  "subtitle": "聊聊你的工作",
+  "reading": {
+    "en": "I work as a product designer at a tech company. My job mainly involves designing digital products and figuring out how to make them easier to use.\n\nWhat I enjoy most about my job is that I get to solve different problems every day. Sometimes I work on improving an existing feature, and other times I get to explore completely new ideas.\n\nTo be honest, it can be pretty challenging, especially when I'm working on a tight deadline. There are days when I feel like I have a million things to do. But I guess that's part of the job.\n\nOne thing I've been trying to get better at is communicating my ideas more clearly. I've realized that being a good designer isn't just about making things look nice. It's also about understanding what people actually need.\n\nLooking ahead, I'd love to take on more responsibility and get involved in bigger decisions. I still have a lot to learn, but I'm enjoying the process.",
+    "zh": "我在一家科技公司担任产品设计师。我的工作主要涉及数字产品设计，以及思考如何让产品变得更容易使用。\n\n这份工作最让我喜欢的一点是，我每天都有机会解决不同的问题。有时候，我会改进现有功能；有时候，我也能探索一些全新的想法。\n\n说实话，这份工作有时挺有挑战性的，尤其是赶截止日期的时候。有些日子，我会觉得自己有一大堆事情要做。不过我想，这也是工作的一部分吧。\n\n最近我一直在努力提升的一项能力，就是更清晰地表达自己的想法。我逐渐意识到，成为一名优秀的设计师，并不只是把东西做得好看，还需要理解人们真正需要什么。\n\n展望未来，我希望能够承担更多责任，参与更重要的决策。我还有很多需要学习的东西，但我很享受这个过程。"
+  },
+  "expressions": [
+    {
+      "phrase": "My job mainly involves…",
+      "meaning": "我的工作主要涉及……",
+      "example": "My job mainly involves designing digital products.",
+      "alternative": "A big part of my job is…"
+    },
+    {
+      "phrase": "What I enjoy most about… is…",
+      "meaning": "……最让我喜欢的一点是……",
+      "example": "What I enjoy most about my job is solving problems.",
+      "alternative": "My favorite thing about… is…"
+    },
+    {
+      "phrase": "I get to…",
+      "meaning": "我有机会做……",
+      "example": "I get to explore new ideas.",
+      "alternative": "I have the opportunity to…"
+    },
+    {
+      "phrase": "To be honest,…",
+      "meaning": "说实话……",
+      "example": "To be honest, it can be pretty challenging.",
+      "alternative": "Honestly,…"
+    },
+    {
+      "phrase": "work on a tight deadline",
+      "meaning": "在紧迫的截止日期下工作",
+      "example": "We're working on a tight deadline this week.",
+      "alternative": "work under time pressure"
+    },
+    {
+      "phrase": "That's part of the job.",
+      "meaning": "这也是工作的一部分",
+      "example": "Some days are stressful, but that's part of the job.",
+      "alternative": "It comes with the job."
+    },
+    {
+      "phrase": "get better at…",
+      "meaning": "逐渐变得更擅长……",
+      "example": "I'm trying to get better at communicating my ideas.",
+      "alternative": "improve at…"
+    },
+    {
+      "phrase": "take on more responsibility",
+      "meaning": "承担更多责任",
+      "example": "I'd love to take on more responsibility.",
+      "alternative": "step into a bigger role"
+    }
   ],
-  "review":{"completed":false,"score":null,"feedback":"","corrections":[]}
+  "review": {
+    "completed": true,
+    "score": 4,
+    "feedback": "整体表达自然、流畅，内容清楚，节奏自然；语法总体扎实，有少量小错误和措辞需要调整。能够准确使用多个目标表达，包括 tight deadline 和 that's part of the job。阅读理解回答到位，工作场景表达正接近更高水平。",
+    "corrections": [
+      {
+        "original": "My job mainly involves in designing digital product and figuring out how to make them easier to use",
+        "polished": "My job mainly involves designing digital products and figuring out how to make them easier to use."
+      },
+      {
+        "original": "Sometimes I work um an existing feature. And other times I had to, I have to explore completely new ideas",
+        "polished": "Sometimes I work on improving an existing feature, and other times I explore completely new ideas."
+      },
+      {
+        "original": "Look ahead, I'd love to take on more responsibility and involves in bigger decisions.",
+        "polished": "I'd love to take on more responsibility and get involved in bigger decisions."
+      }
+    ]
+  }
 }
